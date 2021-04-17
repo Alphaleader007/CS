@@ -1,0 +1,3 @@
+D:\Program Files (x86)\Steam\userdata\**422243433**\730\local\cfg
+
+replace **   ** with steamid found on your trade link
